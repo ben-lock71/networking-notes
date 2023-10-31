@@ -17,4 +17,4 @@ It is also used within organisations which operate ZeroTrust frameworks, in whic
 
 One example of an application which uses mTLS is the Mastercard API. 
 
-![Diagram showing the steps involved in mTLS](Screenshot 2023-10-27 at 13.53.55.png)
+![Diagram showing the steps involved in mTLS](image.png)
